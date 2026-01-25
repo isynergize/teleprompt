@@ -56,8 +56,8 @@ export function ContentInput({ onSubmit }: ContentInputProps) {
       </div>
       <p className="text-xs text-muted text-center">
         Press Ctrl+Enter (Cmd+Enter on Mac) to add
+        <p>Made with ❤🧠 by Elisejane Plecnik && Claude</p>
       </p>
-      <p>Made with ❤🧠 by Elisejane Plecnik && Claude</p>
     </div>
   );
 }
